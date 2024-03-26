@@ -1,0 +1,18 @@
+.card{
+    transition: all 0.5s ease; 
+}
+.move-card1 {
+    transform: translateX(90px) translateY(-250px);
+}
+.move-card2 {
+    transform: translateX(-30px) translateY(-250px);
+} 
+.move-card3 {
+    transform: translateX(-150px) translateY(-250px);
+}
+.move-card4 {
+    transform: translateX(-270px) translateY(-250px);
+}
+.move-card5 {
+    transform: translateX(-390px) translateY(-250px);
+}
